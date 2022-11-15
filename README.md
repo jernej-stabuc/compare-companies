@@ -1,4 +1,4 @@
-# Power BI Project
+# Power BI Compare Companies Project
 Data Science project based on comparing two companies financials on their Income statement/Balance sheet
 
 By: Jernej
