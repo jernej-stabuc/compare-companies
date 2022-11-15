@@ -20,7 +20,7 @@ ___
 - The data focuses on the S&P 500 Companies based on the following Wikipedia List
 - Data model can be expanded to include all markets
 
-## Links and sources 
+## Links and Sources 
 - https://simfin.com/data/api
 - https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
 - https://github.com/raiy0/simfin-api
